@@ -1,1 +1,1 @@
-# NERF
+# Neural Radiance Field
